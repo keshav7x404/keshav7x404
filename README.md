@@ -9,12 +9,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=9B72FF&center=true&vCenter=true&width=850&lines=%E2%9D%9D+Strive+for+perfection,+but+embrace+growth+%E2%9D%9E" alt="Typing SVG" />
 </h2>
 
-<!-- Name & Intro -->
+### 👨‍💻 About Me  
 
-<p align="center" style="color:#d6c9f5; max-width:600px;">
-  I am a Computer Science Engineering student passionate about <b>Web Development</b>, <b>Data Structures & Algorithms</b>, and <b>System Design</b>.  
-  Currently exploring opportunities in <b>internships and placements</b>, while building projects that combine practical problem-solving with clean design.
-</p>
+- 🎓 I am a **Computer Science Engineering student** passionate about **Web Development**, **Data Structures & Algorithms**, and **System Design**.  
+- 📍 Based in **Bangalore, India**.  
+- 🌱 Currently deepening my skills in **Web Development** and **DSA**.  
+- 💡 Built projects such as a **Real-Time Chat App** , **JARVIS AI assistant** and many more .
+- 🚀 Exploring opportunities in **internships and placements**.  
 
 <!-- Portfolio Link -->
 <p align="center">
@@ -24,15 +25,6 @@
 </p>
 
 ---
-
-### 👨‍💻 About Me  
-- 📍 Based in **Bangalore, India**  
-- 🌱 Currently deepening my skills in **Web Development** and **DSA**  
-- 💡 Built projects such as a **Real-Time Chat App** and a **Language Learning Website**  
-- 🎯 Goal: Secure a **top-tier role (30 LPA)** with continuous learning and growth  
-
----
-
 ### ⚒️ Skills & Tools  
 <p align="left">
   <!-- Web & Frontend -->
@@ -69,10 +61,4 @@
 
 
 
----
 
-### 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=b48ef7&text_color=d6c9f5&icon_color=9a6dfc" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=b48ef7&fire=9a6dfc&currStreakLabel=b48ef7" width="48%" />
-</p>
