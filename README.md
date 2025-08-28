@@ -1,19 +1,4 @@
 
-
-<!--
-**keshav7x404/keshav7x404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Profile Banner -->
 <p align="center">
   <img src="image.png" alt="Profile Banner" width="750" style="border-radius:12px;">
@@ -28,7 +13,6 @@ Here are some ideas to get you started:
 ---
 
 <!-- Name & Intro -->
-<h1 align="center" style="color:#b48ef7;">Keshav</h1>
 
 <p align="center" style="color:#d6c9f5; max-width:600px;">
   I am a Computer Science Engineering student passionate about <b>Web Development</b>, <b>Data Structures & Algorithms</b>, and <b>System Design</b>.  
@@ -40,7 +24,7 @@ Here are some ideas to get you started:
 <!-- Portfolio Link -->
 <p align="center">
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-5e3ea1?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/About%20Me...-5e3ea1?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
