@@ -9,17 +9,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=9B72FF&center=true&vCenter=true&width=850&lines=%E2%9D%9D+Strive+for+perfection,+but+embrace+growth+%E2%9D%9E" alt="Typing SVG" />
 </h2>
 
-
----
-
 <!-- Name & Intro -->
 
 <p align="center" style="color:#d6c9f5; max-width:600px;">
   I am a Computer Science Engineering student passionate about <b>Web Development</b>, <b>Data Structures & Algorithms</b>, and <b>System Design</b>.  
   Currently exploring opportunities in <b>internships and placements</b>, while building projects that combine practical problem-solving with clean design.
 </p>
-
----
 
 <!-- Portfolio Link -->
 <p align="center">
