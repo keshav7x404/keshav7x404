@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 <!-- Profile Banner -->
 <p align="center">
-  <img src="YOUR_IMAGE.png" alt="Profile Banner" width="750" style="border-radius:12px;">
+  <img src="image.png" alt="Profile Banner" width="750" style="border-radius:12px;">
 </p>
 
 <!-- Quotation -->
-<p align="center" style="font-style: italic; color: #a892ee;">
-  ❝ Strive for perfection, but embrace growth ❞
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=9B72FF&center=true&vCenter=true&width=850&lines=%E2%9D%9D+Strive+for+perfection,+but+embrace+growth+%E2%9D%9E" alt="Typing SVG" />
+</h2>
+
 
 ---
 
