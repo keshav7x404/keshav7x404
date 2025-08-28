@@ -35,12 +35,39 @@
 
 ### ⚒️ Skills & Tools  
 <p align="left">
+  <!-- Web & Frontend -->
   <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26&color=4b0082" />
   <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6&color=5a2d91" />
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=6a0dad" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=800080" />
-  <img src="https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28&color=4b0082" />
+  <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&color=4b0082" />
+  <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF&color=5a2d91" />
+
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=6a0dad" />
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248&color=800080" />
+  <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1&color=4b0082" />
+  <img src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=092E20&color=5a2d91" />
+  <img src="https://img.shields.io/badge/DBMS-20232A?style=for-the-badge&logo=databricks&logoColor=FF3621&color=6a0dad" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-20232A?style=for-the-badge&logo=cisco&logoColor=white&color=800080" />
+
+  <!-- DevOps & Hosting -->
+  <img src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=FCC624&color=4b0082" />
+  <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=FFFFFF&color=5a2d91" />
+  <img src="https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=FFFFFF&color=6a0dad" />
+  <img src="https://img.shields.io/badge/Render-20232A?style=for-the-badge&logo=render&logoColor=46E3B7&color=800080" />
+
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&color=4b0082" />
+  <img src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&color=5a2d91" />
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB&color=6a0dad" />
+  <img src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=A8B9CC&color=800080" />
+
+  <!-- Concepts -->
+  <img src="https://img.shields.io/badge/System%20Design-20232A?style=for-the-badge&logo=databricks&logoColor=FF3621&color=5a2d91" />
 </p>
+
+
 
 ---
 
