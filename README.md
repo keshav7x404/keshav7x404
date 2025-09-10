@@ -1,5 +1,5 @@
 
-<!-- Profile  Banner -->
+<!-- Profile Banner -->
 <p align="center">
   <img src="image.png" alt="Profile Banner" width="750" style="border-radius:12px;">
 </p>
